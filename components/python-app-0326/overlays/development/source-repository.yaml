@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: python-app-0326-repository
+spec:
+  url: https://github.com/stephanie-cy/python-app-0326
